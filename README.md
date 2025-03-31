@@ -1,4 +1,4 @@
-## Hi Cristian 👋
+## Hi, I'm Cristian 👋
 
 🧠 Fullstack Developer<br/>
 🎯 Currently working on my skills<br/>
