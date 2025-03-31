@@ -2,7 +2,7 @@
 
 🧠 Fullstack Developer<br/>
 🎯 Currently working on my skills<br/>
-🌱 I'm currently learning MERN and PHP/laravel<br/>
+🌱 I'm currently learning MERN and PHP/Laravel<br/>
 ⚡ Aiming to grow and learn new technologies<br/>
 🖊️ I create nerd web pages to stay consistent<br/>
 💪 I love spot<br/>
